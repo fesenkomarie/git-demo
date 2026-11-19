@@ -1,5 +1,7 @@
-first line
 second
 third
 new line from remote repo 1
 new line from remote repo 2
+
+new first line
+new second
